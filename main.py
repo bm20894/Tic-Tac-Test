@@ -1,5 +1,5 @@
-# Miles
+# Miles: number var named number
 
-# Param
+# Param: function called process that takes num as param, return whatever
   
-# Miles
+# Miles: print process(number)
